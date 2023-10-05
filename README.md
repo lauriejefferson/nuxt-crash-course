@@ -1,6 +1,6 @@
 # Nuxt Crash Course
 
-Nuxt 3 tutorial app from the Net Ninjas [Nuxt 3 Crash Course](https://www.youtube.com/watch?v=XpCTyBMOtNQ&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=14)
+Nuxt 3 tutorial app from the Net Ninja's [Nuxt 3 Crash Course](https://www.youtube.com/watch?v=XpCTyBMOtNQ&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=14)
 
 ## Setup
 
