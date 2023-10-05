@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Nuxt Crash Course
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Nuxt 3 tutorial app from the Net Ninjas [Nuxt 3 Crash Course](https://www.youtube.com/watch?v=XpCTyBMOtNQ&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=14)
 
 ## Setup
 
